@@ -36,7 +36,7 @@ function App() {
             <p className="subtitulo">
               {item.subtitulo}
             </p>
-            <a className="botao">Acessar</a>
+            <a href="https://www.google.com" className="botao">Acessar</a>
           </article>
         )
       })}
